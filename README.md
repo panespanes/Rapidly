@@ -1,4 +1,7 @@
 # Rapidly
+
+logging the time a method invoke took to execute.
+
 输出执行某一方法的耗时!<br>
 只需加上注解@Rapdly<br>
 ```java
